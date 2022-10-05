@@ -2,91 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7279627d-2f94-4f3a-ba2d-0172665993a4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/public/css/animate.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/bootstrap-grid.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/bootstrap-grid.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/bootstrap-grid.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/bootstrap-grid.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/bootstrap-reboot.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/bootstrap-reboot.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/bootstrap-reboot.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/bootstrap-reboot.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/bootstrap.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/bootstrap.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/default-skin.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/font-awesome.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/icomoon.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/jquery-ui.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/jquery.fancybox.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/jquery.mCustomScrollbar.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/meanmenu.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/nice-select.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/normalize.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/owl.carousel.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/responsive.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/slick.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/about-img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/banner-bg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/banner-img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/call-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/contact-img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/fb-icon-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/fb-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/footer-logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/img-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/img-10.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/img-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/img-3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/img-4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/img-5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/img-6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/img-7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/img-8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/img-9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/instagram-icon-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/instagram-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/like-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/linkedin-icon-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/mail-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/serach-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/twitter-icon-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/twitter-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/bootstrap.bundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/bootstrap.bundle.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/bootstrap.bundle.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/bootstrap.bundle.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/bootstrap.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/bootstrap.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/custom.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/jquery-3.0.0.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/jquery.mCustomScrollbar.concat.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/jquery.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/jquery.validate.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/modernizer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/plugin.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/popper.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/slider-setting.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Controller/SiteController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/about.html.twig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/blog.html.twig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/contact.html.twig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/features.html.twig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/home.html.twig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/lucky/number.html.twig" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/canteen.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/canteen.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/bundles.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/bundles.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/symfony.lock" beforeDir="false" afterPath="$PROJECT_DIR$/symfony.lock" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -186,7 +103,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1664949646108</updated>
-      <workItem from="1664949647634" duration="5988000" />
+      <workItem from="1664949647634" duration="6636000" />
     </task>
     <servers />
   </component>
