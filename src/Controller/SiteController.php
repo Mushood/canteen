@@ -37,4 +37,10 @@ class SiteController extends AbstractController
     {
         return $this->render('contact.html.twig', []);
     }
+
+    #[Route('/test', name: 'test')]
+    public function test(): Response
+    {
+        return $this->render('test.html.twig', []);
+    }
 }
